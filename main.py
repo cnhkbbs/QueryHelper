@@ -48,8 +48,6 @@ def check_update():
 if __name__ == '__main__':
     print_info("版本:1.0   内部版本:" + str(build))
     print_info("问题反馈请提交Issue至https://github.com/cnhkbbs/QueryHelper")
-    print(
-        "*" * 50 + "\n开源软件 完全免费，如果你是收费获得的，请立即退款并举报" + "\n开源协议https://github.com/cnhkbbs/QueryHelper/blob/main/LICENSE\n" + "*" * 50)
     # 检查更新
     check_update()
     # 启动服务
