@@ -1,4 +1,4 @@
 # QueryHelper
 
 ## HomePage
-https://cnhkbbs.github.io/jstools/queryhelper/
+https://cnhkbbs.github.io/queryhelper/
