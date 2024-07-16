@@ -1,5 +1,4 @@
 # QueryHelper
 
-## 首页
-https://sboxm.top/queryhelper/
-
+## HomePage
+https://cnhkbbs.github.io/jstools/queryhelper/
